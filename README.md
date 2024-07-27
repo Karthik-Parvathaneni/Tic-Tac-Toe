@@ -4,6 +4,8 @@ This is a simple Tic-Tac-Toe game built with React. The game allows two players 
 
 ### This is just a small project to get familiar with working with React.
 
+[Play the game](https://karthik-parvathaneni.github.io/Tic-Tac-Toe/)
+
 Preview of the game:
 
 ![Tic-Tac-Toe Game Screenshot](./assets/preview_0.png) ![Tic-Tac-Toe Game Screenshot](./assets/preview.png)
@@ -14,22 +16,3 @@ Preview of the game:
 - Highlights the three squares that caused the win.
 - Displays a draw message if no one wins and all squares are filled.
 - Allows players to navigate through the game's history and jump to a specific move.
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Karthik-Parvathaneni/Tic-Tac-Toe.git
-   cd Tic-Tac-Toe
-2. Install dependencies
-   ```bash
-   npm install
-3. Running the game
-   ```bash
-   npm run dev
